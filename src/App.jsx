@@ -5,7 +5,7 @@ import Avatar from './components/Avatar';
 export default function App() {
   return (
     <main>
-      <section className='max-w-sm bg-very-dark-blue-card my-24 mx-auto p-10 rounded-2xl'>
+      <section className='max-w-[328px] bg-very-dark-blue-card my-24 mx-auto p-6 rounded-2xl'>
         <Image />
         <Content />
         <Avatar />
